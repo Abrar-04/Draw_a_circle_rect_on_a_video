@@ -1,2 +1,2 @@
-# Circle_Rectangle
-Drawing circle and rectangle on an image and video
+# Circle
+Drawing circle and rectangle on a video
